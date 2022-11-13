@@ -1,11 +1,13 @@
-# FCC Exercise Tracker
+# [Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
-[![Run on Repl.it](https://repl.it/badge/github/abordage/fcc-exercise-tracker)](https://repl.it/github/abordage/fcc-exercise-tracker)
+2021 Tests
 
-## Author
+Special Thanks to..
 
-Pavel Bychko ([abordage](https://github.com/abordage))
+Test #3 coded by u/Reckitron at FreeCodeCamp Community on Reddit
 
-## License
+&&
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+Test #4,5,6 and HTML to rajasree12 github page
+
+https://github.com/rajasree12/exercise_tracker_api.git
